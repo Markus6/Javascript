@@ -1,5 +1,5 @@
 # Javascript
 
-Tampereen yliopiston kurssin Johdatus www-tekniikoihin harjoitustyönä tehty simppeli Javascript-peli.
+Tampereen yliopiston Johdatus www-tekniikoihin-kurssin harjoitustyönä tehty simppeli Javascript-peli.
 
 https://markusmakela.fi/ht/
